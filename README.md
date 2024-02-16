@@ -3,3 +3,5 @@ Dans ce github,  vous trouverez l’ensemble des codes appliquées, les fichiers
 
 Nous estimerons la tendance des ventes totales de la franchise « Grand Theft Auto » à l’aide d’informations descriptives, de données issues d’un dataset fournis et de webscrapping. 
 De plus, une étude d’analyse de sentiments sera effectuée afin de quantifier l’engouement généré par cette franchise sur l’axe de Storytelling et celui de GTA VI avant sa sortie en 2025. 
+
+Présentation Streamlit : https://
